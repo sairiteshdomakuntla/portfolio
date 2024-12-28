@@ -39,25 +39,25 @@ const projects = [
   {
     title: "Anime Streaming Website",
     description: "Next.js web app with server-side rendering, dynamic content, and user authentication using Tailwind CSS",
-    image: ".././public/assets/anime.webm",
+    image: "/assets/anime.webm",
     href: "https://github.com/sairiteshdomakuntla"
   },
   {
     title: "User Management App",
     description: "Full-stack MERN application for efficient user profile management with add, edit, and delete functionalities",
-    image: "/path/to/user-management-screenshot.webm",
+    image: "/assets/usermanagement.webm",
     href: "https://github.com/sairiteshdomakuntla"
   },
   {
     title: "Blog App",
     description: "Comprehensive MERN stack blog platform with intuitive post creation, management, and author profiles",
-    image: "/path/to/blog-app-screenshot.webm",
+    image: "/assets/blog.webm",
     href: "https://github.com/sairiteshdomakuntla"
   },
   {
     title: "Virtual Painter",
     description: "OpenCV-powered digital painting application in Python with multiple brush and color options",
-    image: "/path/to/virtual-painter-screenshot.webm",
+    image: "/assets/vpainter.webm",
     href: "https://github.com/sairiteshdomakuntla"
   },
 ];
